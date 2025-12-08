@@ -1,0 +1,54 @@
+{
+    "admin": {
+        "hello": [
+            "read",
+            "write",
+            "delete"
+        ],
+        "hey": [
+            "read",
+            "write",
+            "delete"
+        ],
+        "hi": [
+            "read",
+            "write",
+            "delete"
+        ],
+        "umm": [
+            "read",
+            "write",
+            "delete"
+        ],
+        "ege": [
+            "read",
+            "write",
+            "delete"
+        ],
+        "jhj": [
+            "read",
+            "write",
+            "delete"
+        ],
+        "file1": [
+            "read",
+            "write",
+            "delete"
+        ],
+        "file2": [
+            "read",
+            "write",
+            "delete"
+        ]
+    },
+    "kunal": {
+        "file1": [
+            "read"
+        ]
+    },
+    "user123": {
+        "file1": [
+            "read"
+        ]
+    }
+}

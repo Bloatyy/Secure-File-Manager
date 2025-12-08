@@ -1,0 +1,18 @@
+{
+    "admin": {
+        "password": "240be518fabd2724ddb6f04eeb1da5967448d7e831c08c8fa822809f74c720a9",
+        "role": "admin"
+    },
+    "kunal": {
+        "password": "1ae2a10b73e3166eeda04d4302c4d613dcf9f4edf5b6914a3052bc178e388dfd",
+        "role": "user"
+    },
+    "navjot": {
+        "password": "c028d1b639ebd98e810c7b6c21ea48d7117c760311e8a178cb3bcb2b5247ce08",
+        "role": "user"
+    },
+    "user123": {
+        "password": "e606e38b0d8c19b24cf0ee3808183162ea7cd63ff7912dbb22b5e803286b4446",
+        "role": "user"
+    }
+}
