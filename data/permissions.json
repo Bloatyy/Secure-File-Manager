@@ -40,15 +40,5 @@
             "write",
             "delete"
         ]
-    },
-    "kunal": {
-        "file1": [
-            "read"
-        ]
-    },
-    "user123": {
-        "file1": [
-            "read"
-        ]
     }
 }
