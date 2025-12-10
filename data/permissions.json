@@ -1,35 +1,5 @@
 {
     "admin": {
-        "hello": [
-            "read",
-            "write",
-            "delete"
-        ],
-        "hey": [
-            "read",
-            "write",
-            "delete"
-        ],
-        "hi": [
-            "read",
-            "write",
-            "delete"
-        ],
-        "umm": [
-            "read",
-            "write",
-            "delete"
-        ],
-        "ege": [
-            "read",
-            "write",
-            "delete"
-        ],
-        "jhj": [
-            "read",
-            "write",
-            "delete"
-        ],
         "file1": [
             "read",
             "write",
@@ -39,6 +9,11 @@
             "read",
             "write",
             "delete"
+        ]
+    },
+    "user123": {
+        "file1": [
+            "read"
         ]
     }
 }
