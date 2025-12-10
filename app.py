@@ -54,7 +54,7 @@ for directory in (DATA_DIR, SECURE_DIR):
 # ==================== THEME ====================
 class Theme:
     PRIMARY = "#2E86AB"
-    SECONDARY = "#A23B72"
+    SECONDARY = "#AD2970"
     SUCCESS = "#28A745"
     DANGER = "#DC3545"
     LIGHT = "#F8F9FA"
