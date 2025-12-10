@@ -556,7 +556,7 @@ class MainApp:
         # Notepad-style editor (large, monospace, horizontal+vertical scrollbars)
         w = tk.Toplevel(self.root)
         w.title(f"Create - {name}")
-        w.geometry("1000x700")
+        w.geometry("900x600")
 
         # Menu bar (basic: File -> Save, Close)
         menubar = tk.Menu(w)
